@@ -1,0 +1,15 @@
+Added Component: Designator=LED?(LED-3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 ly Single Colour"; VariantName = "[No Variations]"
+Added Component: Designator=RS(R1/4W)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=M+ Pin=LED?-1
+Added Pin To Net: NetName=GND Pin=RS-1
+Added Pin To Net: NetName=NetLED?_2 Pin=LED?-2
+Added Pin To Net: NetName=NetLED?_2 Pin=RS-2
+Added Net: Name=NetLED?_2
+Added Member To Class: ClassName=Sheet1 Member=Component LED? LED
+Added Member To Class: ClassName=Sheet1 Member=Component Q? IRFZ44
+Added Member To Class: ClassName=Sheet1 Member=Component RS 1k
+Added Room: Name=Sheet1

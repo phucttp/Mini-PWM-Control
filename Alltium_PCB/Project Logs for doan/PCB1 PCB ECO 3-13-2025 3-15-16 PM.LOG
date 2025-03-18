@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=M+ Pin=LED?-1
+Removed Pin From Net: NetName=GND Pin=RS-1
+Added Pin To Net: NetName=GND Pin=LED?-2
+Added Pin To Net: NetName=M+ Pin=RS-2
+Added Pin To Net: NetName=NetLED?_1 Pin=LED?-1
+Added Pin To Net: NetName=NetLED?_1 Pin=RS-1
+Added Net: Name=NetLED?_1
+Added Room: Name=Sheet1

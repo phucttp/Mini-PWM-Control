@@ -1,0 +1,8 @@
+Added Component: Designator=(motor 12v)
+Add component. Clean all parameters for all variants
+Change Net Name : Old Net Name=NetD3_1 New Net Name=Net_neg
+Added Member To Class: ClassName=Sheet1 Member=Component D2 1N4007
+Added Member To Class: ClassName=Sheet1 Member=Component D3 1N4007
+Added Member To Class: ClassName=Sheet1 Member=Component JP1 Header 2_1
+Added Member To Class: ClassName=Sheet1 Member=Component  motor
+Added Room: Name=Sheet1

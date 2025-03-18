@@ -1,0 +1,9 @@
+Added Component: Designator=(motor 12v)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=Net_neg Pin=-1
+Added Pin To Net: NetName=Net_neg Pin=-1
+Added Pin To Net: NetName=VCC Pin=-1
+Added Pin To Net: NetName=VCC Pin=-1
+Change Net Name : Old Net Name=Net_neg New Net Name=Net_1
+Added Member To Class: ClassName=Sheet1 Member=Component  motor
+Added Room: Name=Sheet1

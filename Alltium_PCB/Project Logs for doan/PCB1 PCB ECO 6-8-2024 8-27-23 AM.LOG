@@ -1,0 +1,5 @@
+Added Component: Designator=SW?(SW102)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "Switch 102 On Board"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Sheet1 Member=Component SW? SW102A
+Added Room: Name=Sheet1

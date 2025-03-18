@@ -1,0 +1,14 @@
+Change Component Designator: OldDesignator=D1 NewDesignator=D2
+Change Component Designator: OldDesignator=D2 NewDesignator=D3
+Added Component: Designator=D1(D1A)
+Add component (AddParameter): Name = "Value"; Value = "1N4007"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=D1-2
+Change Net Name : Old Net Name=NetD1_1 New Net Name=NetD2_1
+Change Net Name : Old Net Name=NetD1_2 New Net Name=NetD2_2
+Change Net Name : Old Net Name=NetD2_1 New Net Name=NetD3_1
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=JP2-1
+Added Pin To Net: NetName=NetD1_1 Pin=QB1-2
+Added Net: Name=NetD1_1
+Added Member To Class: ClassName=Sheet1 Member=Component D3 1N4007
+Added Room: Name=Sheet1
