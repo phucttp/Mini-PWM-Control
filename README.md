@@ -11,7 +11,8 @@ This project is a **Pulse Width Modulation (PWM) controller** using the **NE555 
 🔹 **Stable Performance** - High-voltage ceramic capacitors included.  
 
 ## 📜 Schematic  
-📄 **Check the circuit diagram in** [`Schematic.pdf`](./Schematic.pdf).  
+🖼️ **Circuit Diagram:**  
+![Schematic](./Schematic.JPG)    
 
 ## 🛠️ Components List  
 | Component      | Value/Type       | Description                    |
